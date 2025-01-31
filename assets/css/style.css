@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'Reospec';
-    src: url('../font/Reospec.otf') format('opentype');
-}
-
-body {
-    font-family: 'Reospec', sans-serif;
-}
