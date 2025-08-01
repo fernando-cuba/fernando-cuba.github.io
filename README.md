@@ -1,80 +1,87 @@
-# Fernando Cuba  
-**Desarrollador Full Stack**  
+# Fernando Cuba – Full Stack Developer specialized in Laravel, Spring Boot, React, and DevOps
 
-Hola, soy **Fernando Cuba**, un desarrollador Full Stack enfocado en crear soluciones innovadoras 👨‍💻  
-Con más de 5 años de experiencia, he liderado proyectos que mejoran la visibilidad y funcionalidad de los servicios, optimizando sistemas y generando resultados medibles como mayor retención de usuarios y crecimiento de ingresos.
+Full Stack Developer in Mexico with over 5 years of experience developing modern web applications using **Laravel, Spring Boot, React.js, Node.js, and cloud technologies such as AWS and Google Cloud**.
 
----
-
-## Acerca de mí  
-Soy un desarrollador Full Stack con experiencia en liderar proyectos web para marcas reconocidas. Me especializo en tecnologías como **JavaScript, PHP, Laravel, Node.js** y **WordPress**, creando soluciones robustas, eficientes y escalables.  
-
-Me apasionan la organización, el aprendizaje continuo y la mejora constante. Valoro la empatía y me esfuerzo por apoyar a quienes me rodean, fomentando un entorno colaborativo y positivo.  
-
-Si buscas a alguien con habilidades técnicas sólidas y capacidad para gestionar proyectos, revisa mi [LinkedIn](#) o consulta mi CV.  
+I have led technology projects for renowned brands, optimizing internal processes and generating impact on user retention, system scalability, and overall performance of digital platforms.
 
 ---
 
-## Proyectos Destacados  
-> _Explora mis proyectos destacados en mi portafolio._  
+## Who am I?
+
+I am **Fernando Cuba**, a results-oriented Full Stack web developer, passionate about software architecture, process automation, and continuous improvement.
+
+I combine advanced technical skills with real-world experience in productive projects and solid knowledge of Linux environments, REST APIs, DevOps, and cybersecurity.
+
+As a **Full Stack Developer in Mexico**, I have implemented high-performance solutions that respond to real business needs, using up-to-date technologies and agile development best practices.
 
 ---
 
-## Habilidades  
-Mi experiencia abarca todo el ciclo de vida del desarrollo de aplicaciones con especialización en:  
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, CSS Frameworks.  
-- **Backend**: PHP, Laravel, Node.js, ExpressJS.  
-- **Bases de Datos**: MySQL.  
-- **Herramientas**: Git, Google Cloud, Linux (Ubuntu, CentOS, RHEL).  
-- **DevOps**: Administración de servidores, optimización de sistemas.  
-- **Servicios**: Integración de APIs, configuración de entornos Linux.  
+## Key Services and Skills
+
+> Modern full-stack software development for enterprises, startups, and technology teams.
+
+### Specialties:
+- Development of **responsive and scalable web applications**.
+- Integration and documentation of **REST APIs**.
+- Process automation with tools such as **n8n** and **Docker**.
+- Server administration on **Linux (Ubuntu/CentOS)** and configuration of cloud environments (**Google Cloud, AWS**).
+- Development of custom plugins and templates in **WordPress and WooCommerce**.
+- Technical SEO for platforms and online stores.
+- Development security with **JWT, Spring Security, and HTTPS**.
 
 ---
 
-## Experiencia Profesional  
+## Tech Stack
 
-### **Full Stack Web Developer**  
-**NEORED Email Marketing** | _Jul 2023 - Presente_  
-- Gestión de equipos y coordinación de proyectos para cumplir plazos estrictos.  
-- Implementación exitosa de proyectos, mejorando visibilidad y funcionalidad para grandes marcas.  
-- Desarrollo eficiente de aplicaciones web con PHP, JavaScript (ES6+), y ExpressJS.  
-- Diseño de interfaces atractivas con HTML5, CSS3 y React.js.  
-- Construcción de aplicaciones escalables con Laravel y Node.js.  
-- Administración experta de servidores Linux y Google Cloud.  
+### 🔹 Frontend:
+- HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, MaterializeCSS
 
-**Tecnologías**: PHP, JavaScript (ES6+), ExpressJS, HTML5, CSS3, React.js, Laravel, Node.js, Linux, Google Cloud, Git.  
+### 🔹 Backend:
+- PHP, Laravel, Node.js, ExpressJS, Java, Spring Boot
 
----
+### 🔹 Databases:
+- MySQL, PostgreSQL
 
-### **Full Stack Web Developer**  
-**CyS AMD** | _Oct 2022 - Jun 2023_  
-- Análisis de requisitos y desarrollo web integral.  
-- Mejora de planificación estratégica, aumentando la eficiencia operativa en un 5%.  
-- Liderazgo en iniciativas que incrementaron la satisfacción del cliente en un 10%.  
-- Implementación de medidas de seguridad robustas para proteger la información.  
+### 🔹 DevOps & Cloud:
+- Docker, Git, Linux (Ubuntu, CentOS), Google Cloud Platform (GCP), AWS S3
 
-**Tecnologías**: PHP, Seguridad, Planificación Estratégica.  
+### 🔹 Automation and others:
+- Postman, Swagger/OpenAPI, n8n, SEO, Stripe, PayPal, Mercado Pago
 
 ---
 
-### **Desarrollador Web Fullstack**  
-**BMSA Group MX** | _Nov 2021 - Oct 2022_  
-- Diseño y arquitectura de sistemas para proyectos integrales.  
-- Desarrollo en entornos Linux, mejorando la experiencia del desarrollo.  
-- Implementación exitosa del ciclo de vida completo del proyecto.  
+## Featured Projects
 
-**Tecnologías**: JavaScript, Bootstrap, PHP, Node.js, ExpressJS, MySQL, Laravel, Linux.  
+Check out my projects on GitHub: API integrations, process automation, dashboards, Alexa-powered assistants, custom CRM systems, E-commerce and more.
+👉 [Portfolio on GitHub](https://github.com/fernando-cuba/fernando-cuba.github.io)
 
 ---
 
-### **Administrador de Sistemas**  
-**Dental Muro S.A. de C.V.** | _Feb 2020 - Nov 2021_  
-- Optimización de SEO, gestión de tiendas en línea y soporte técnico en servidores Linux y Windows.  
-- Desarrollo y personalización de sitios web con WordPress e integración de APIs de pago.  
-- Logros: Incremento de ganancias en un 20% y retención de usuarios en un 15%.  
+## Why work with me?
 
-**Tecnologías**: JavaScript, Bootstrap, MaterializeCSS, PHP 7, MySQL, Modelo MVC, SEO, WordPress, Stripe, PayPal, Mercado Pago, Linux (Ubuntu), Windows Server 2012, Microsip.  
+
+✅ Practical knowledge in agile development and CI/CD
+
+✅ Real-world experience leading projects for renowned brands
+
+✅ Strong focus on code quality, documentation, and scalability
+
+✅ Ability to communicate with technical and non-technical teams
+
+✅ Available for remote work
+
+
 
 ---
 
-© 2025, Fernando Cuba
+## Contact
+
+📧 lfernando.cubar@gmail.com
+📍 Mexico
+🔗 [LinkedIn](https://www.linkedin.com/in/fernandocuba) | [CV](https://fernandocuba.is-a.dev/assets/doc/CV__LUIS_FERNANDO_CUBA_RODRIGUEZ__EN.pdf) | [Web](https://fernandocuba.is-a.dev)
+
+---
+
+Fernando Cuba
+Full Stack Developer in Mexico specializing in Laravel, React, Spring Boot, Node.js, Linux, and scalable solutions.
+

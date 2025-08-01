@@ -1,56 +1,99 @@
 <!DOCTYPE html>
 <html lang="es-MX" class="light-style layout-menu-fixed" dir="ltr" data-theme="theme-default" data-assets-path="assets/"
     data-template="vertical-menu-template-free">
-
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
-    <title>Fernando Cuba - Desarrollador Full Stack</title>
-    <meta name="description" content="Desarrollador Full Stack con más de 5 años de experiencia en Laravel, PHP, JavaScript y más. Creando soluciones innovadoras y robustas.">
-    <meta name="keywords" content="desarrollador full stack, full stack developer, desarrollador web, web developer, laravel, php, javascript, react, node.js, mysql, postgres, mongodb, wordpress, seo, desarrollo web, desarrollo de aplicaciones web, fernando cuba, mexico">
-    <meta name="author" content="Fernando Cuba">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="/assets/img/logo/favicon.png" />
+  <title>Fernando Cuba - Full Stack Developer | Laravel, Spring Boot, React | Docker, n8n, Alexa | REST APIs & Scalable Systems | +5 años de experiencia</title>
 
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:url" content="https://fernandocuba.is-a.dev/">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Fernando Cuba - Desarrollador Full Stack">
-    <meta property="og:description" content="Desarrollador Full Stack con más de 5 años de experiencia en Laravel, PHP, JavaScript y más. Creando soluciones innovadoras y robustas.">
-    <meta property="og:image" content="/assets/img/logo/preview-dev.png">
-    <meta property="og:logo" content="/assets/img/logo/preview-dev.png">
+  <!-- Primary Meta Tags -->
+  <meta name="title" content="Fernando Cuba - Full Stack Developer | Laravel, Spring Boot, React | Docker, n8n, Alexa | REST APIs & Scalable Systems | +5 años de experiencia" />
+  <meta name="description" content="Desarrollador Full Stack con más de 5 años de experiencia en Laravel, PHP, JavaScript, React.js, Node.js, Spring Boot y tecnologías en la nube. Líder en proyectos web escalables y eficientes desde CDMX, México." />
+  <meta name="keywords" content="desarrollador full stack, full stack developer, desarrollador web, laravel, php, javascript, react, node.js, spring boot, mysql, postgresql, docker, aws, gcp, linux, docker, api rest, seguridad informática, linkedin, mexico, remote jobs" />
+  <meta name="author" content="Luis Fernando Cuba Rodríguez" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+  <meta name="googlebot" content="index, follow" />
 
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="fernandocuba.is-a.dev">
-    <meta property="twitter:url" content="https://fernandocuba.is-a.dev/">
-    <meta name="twitter:title" content="Fernando Cuba - Desarrollador Full Stack">
-    <meta name="twitter:description" content="Desarrollador Full Stack con más de 5 años de experiencia en Laravel, PHP, JavaScript y más. Creando soluciones innovadoras y robustas.">
-    <meta name="twitter:image" content="/assets/img/logo/preview-dev.png">
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://fernandocuba.is-a.dev/" />
 
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="/assets/img/logo/favicon.png" />
 
-    <!-- Icons -->
-    <link rel="stylesheet" href="assets/vendor/fonts/boxicons.css" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://fernandocuba.is-a.dev/" />
+  <meta property="og:title" content="Fernando Cuba - Full Stack Developer | Laravel, Spring Boot, React | Docker, n8n, Alexa | REST APIs & Scalable Systems | +5 años de experiencia" />
+  <meta property="og:description" content="Desarrollador Full Stack con más de 5 años de experiencia creando aplicaciones web robustas y escalables usando Laravel, React, Node.js y Spring Boot. Experto en Docker, AWS, Google Cloud y seguridad informática." />
+  <meta property="og:image" content="https://fernandocuba.is-a.dev/assets/img/logo/preview-dev.png" />
+  <meta property="og:locale" content="es_MX" />
+  <meta property="og:site_name" content="Fernando Cuba - Full Stack Developer" />
 
-    <!-- Core CSS -->
-    <link rel="stylesheet" href="assets/vendor/css/core.css" class="template-customizer-core-css" />
-    <link rel="stylesheet" href="assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
-    <link rel="stylesheet" href="assets/css/demo.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:domain" content="fernandocuba.is-a.dev" />
+  <meta name="twitter:url" content="https://fernandocuba.is-a.dev/" />
+  <meta name="twitter:title" content="Fernando Cuba - Full Stack Developer | Laravel, Spring Boot, React | Docker, n8n, Alexa | REST APIs & Scalable Systems | +5 años de experiencia" />
+  <meta name="twitter:description" content="Desarrollador Full Stack con experiencia en Laravel, React, Node.js y Spring Boot, especializado en desarrollo de aplicaciones web escalables y automatización con Docker y servicios en la nube." />
+  <meta name="twitter:image" content="https://fernandocuba.is-a.dev/assets/img/logo/preview-dev.png" />
 
-    <!-- Helpers -->
-    <script src="assets/vendor/js/helpers.js"></script>
-    <script src="assets/js/config.js"></script>
+  <!-- Schema.org structured data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Luis Fernando Cuba Rodríguez",
+    "url": "https://fernandocuba.is-a.dev/",
+    "sameAs": [
+      "https://linkedin.com/in/fernandocuba",
+      "https://github.com/fernandocuba"
+    ],
+    "jobTitle": "Full Stack Developer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "NEORED Email Marketing"
+    },
+    "description": "Full Stack Developer con más de 5 años de experiencia en desarrollo web con Laravel, React, Node.js, Spring Boot, Docker, AWS y Google Cloud. Especialista en crear aplicaciones escalables, APIs RESTful, integración de servicios y automatización.",
+    "email": "mailto:lfernando.cubar@gmail.com",
+    "telephone": "+52 55 8608 5090",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ciudad de México",
+      "addressCountry": "MX"
+    },
+    "knowsLanguage": ["es", "en"],
+    "skills": [
+      "Laravel", "React.js", "Node.js", "Spring Boot", "PHP", "JavaScript", "Java", "Python",
+      "MySQL", "PostgreSQL", "Docker", "Git", "AWS", "Google Cloud Platform", "Linux", "REST APIs",
+      "JWT", "Spring Security", "WordPress", "SEO", "Automatización", "n8n"
+    ]
+  }
+  </script>
 
-    <link href="assets/dist/css/splide.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="assets/vendor/fonts/boxicons.css" />
+
+  <!-- Core CSS -->
+  <link rel="stylesheet" href="assets/vendor/css/core.css" class="template-customizer-core-css" />
+  <link rel="stylesheet" href="assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+  <link rel="stylesheet" href="assets/css/demo.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+
+  <!-- Helpers -->
+  <script src="assets/vendor/js/helpers.js"></script>
+  <script src="assets/js/config.js"></script>
+
+  <link href="assets/dist/css/splide.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
-    
+   
 
 <body>
     <div class="overlay">
@@ -87,7 +130,7 @@
                             <ul class="navbar-nav ms-auto mb-2 mb-md-0 mt-2">
                                 <li class="nav-item">
                                     <a class="mx-4 fs-5 pe-auto"
-                                        href="assets/doc/CV__LUIS_FERNANDO_CUBA_RODRIGUEZ___ES.pdf" target="_blank">
+                                        href="assets/doc/CV__LUIS_FERNANDO_CUBA_RODRIGUEZ__ES.pdf" target="_blank">
                                         <button class="btn btn-primary fw-bold">Descargar CV</button>
                                     </a>
                                 </li>
@@ -128,7 +171,7 @@
                                                     retención de usuarios y crecimiento de ingresos.
                                                 </p>
                                                 <div class="d-flex flex-wrap gap-3">
-                                                    <a href="assets/doc/CV__LUIS_FERNANDO_CUBA_RODRIGUEZ___ES.pdf"
+                                                    <a href="assets/doc/CV__LUIS_FERNANDO_CUBA_RODRIGUEZ__ES.pdf"
                                                         target="_blank" class="btn btn-primary fw-bold pe-auto">
                                                         Descargar CV
                                                     </a>
@@ -177,7 +220,7 @@
                                         gestionar proyectos, no dudes en revisar mi <a
                                             href="https://www.linkedin.com/in/fernandocuba" target="_blank">perfil
                                             de LinkedIn</a> o consultar mi <a
-                                            href="assets/doc/CV__LUIS_FERNANDO_CUBA_RODRIGUEZ___ES.pdf"
+                                            href="assets/doc/CV__LUIS_FERNANDO_CUBA_RODRIGUEZ__ES.pdf"
                                             target="_blank">CV</a>.</p>
                                 </div>
                             </div>
